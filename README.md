@@ -4,7 +4,8 @@
 - 📫 How to reach me hanifah.f@gmail.com
 
 - Programming language : Java
-- Computer Software : IntelliJ IDEA
+- Computer Software : IntelliJ IDEA ![image](https://user-images.githubusercontent.com/116278199/210149717-62e7ba20-58d9-4728-a6a2-650f3131158d.png)
+
 - Work : Manual and Automation Testing
 - API Testing Software : Postman
 - Documentation : TestRail & Trello
