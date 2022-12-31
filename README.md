@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me hanifah.f@gmail.com
 
-Programming language : Java
-Computer Software : IntelliJ IDEA
-Work : Manual and Automation Testing.
-API Testing Software : Postman
-Documentation : TestRail & Trello
+- Programming language : Java
+- Computer Software : IntelliJ IDEA
+- Work : Manual and Automation Testing.
+- API Testing Software : Postman
+- Documentation : TestRail & Trello
 
 I also understand graphic design using Adobe Illustrator, Photoshop and videography using Adobe Premiere Pro.
 
