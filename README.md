@@ -5,11 +5,11 @@
 
 - Programming language : Java
 - Computer Software : IntelliJ IDEA
-- Work : Manual and Automation Testing.
+- Work : Manual and Automation Testing
 - API Testing Software : Postman
 - Documentation : TestRail & Trello
 
-I also understand graphic design using Adobe Illustrator, Photoshop and videography using Adobe Premiere Pro.
+Additional, I also understand graphic design using Adobe Illustrator, Photoshop and videography using Adobe Premiere Pro.
 
 
 <!---
