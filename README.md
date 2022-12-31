@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hanifahfuadi
-- 👀 I’m interested in information and technology and all of knowledge that makes life easier.
+- 👀 I’m interested in information, technology and all of knowledge that makes life easier.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me hanifah.f@gmail.com
 
